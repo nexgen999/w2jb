@@ -17,3 +17,4 @@ project fork from :
 
 - https://github.com/jordyidk/slopkit
 - https://github.com/EzioRamesha/slopkit-lite
+- https://github.com/itsPLK/ps5-unified-autoloader

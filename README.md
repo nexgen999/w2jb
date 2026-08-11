@@ -1,5 +1,5 @@
 # ps5webkit
-ps5webkit W2JB
+ps5webkit W2JB expermimental with unified loader
 
 edit your ps5 dns
 62.210.38.117
@@ -8,7 +8,7 @@ or
 
 go to : https://nexgen999.github.io/ps5webkit
 
-autoload evox 
+autoload /data/ps5_autoload folder 
 
 project fork from :
 

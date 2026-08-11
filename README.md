@@ -5,8 +5,6 @@
 
 <p align="center">PS5 webkit exploit W2JB expérimental with unified loader, autoload /data/ps5_autoload folder .</p>
 
-# w2jb
-
 edit your ps5 dns :
 
 - 62.210.38.117

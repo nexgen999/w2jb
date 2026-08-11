@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">PS5 webkit exploit W2JB</h1>
 
-<p align="center">PS5 webkit exploit W2JB expérimental with unified loader, autoload /data/ps5_autoload folder .</p>
+<p align="center">PS5 webkit exploit W2JB expérimental with unified loader, autoload /data/ps5_autoloader folder .</p>
 
 edit your ps5 dns :
 

@@ -1,4 +1,4 @@
-# ps5webkit
+# w2jb
 ps5webkit W2JB expermimental with unified loader
 
 edit your ps5 dns
@@ -6,7 +6,7 @@ edit your ps5 dns
 or
 45.56.67.85
 
-go to : https://nexgen999.github.io/ps5webkit
+go to : https://nexgen999.github.io/w2jb
 
 autoload /data/ps5_autoload folder 
 
